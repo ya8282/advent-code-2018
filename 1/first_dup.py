@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 # Determine the first instance of a duplicate frequency value
-import sys
 
 frequency = 0
 seen_set = set()
